@@ -10,6 +10,17 @@ Understanding physical features in toy precipitation models using sparse autoenc
 
 This is the public code repository for our research article.
 
+Give some overview details here.
+
+![overview](https://github.com/frasertheking/TowardsInterpretability/blob/main/figures/im1.png?raw=true)
+
+Give more details here.
+
+![overview](https://github.com/frasertheking/TowardsInterpretability/blob/main/figures/im2.png?raw=true)
+
+
+## Google Colab Examples
+
 Classifier:
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1lNTkPtO2ZNvSHTR7r03Gu1FqKEdTra30?usp=sharing)
 
