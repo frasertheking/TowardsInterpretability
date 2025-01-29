@@ -2,7 +2,7 @@
 
 ![logo](https://github.com/frasertheking/TowardsInterpretability/blob/main/figures/banner.png?raw=true)
 
-Decoding Nonlinear Signals in Multidimensional Precipitation Observations, maintained by [Fraser King](https://frasertheking.com/)
+Understanding physical features in toy precipitation models using sparse autoencoders, maintained by [Fraser King](https://frasertheking.com/)
 
 </div>
 
